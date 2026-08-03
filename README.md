@@ -32,3 +32,15 @@ The agent connects directly to a custom unstructured data store containing domai
 * Building production-ready conversational agents using Google Cloud's modern Agent Builder console.
 * Implementing Retrieval-Augmented Generation (RAG) to anchor AI responses in private/custom data stores.
 * Managing Google Cloud project resources, runtime instances, and IAM security permissions.
+* ---
+
+## 📸 Project Screenshots & Workflow
+
+### 1. Agent Studio & Dashboard Overview
+![Agent Dashboard](Screenshot%202026-08-03%20111833.png)
+
+### 2. Configuration & Grounding Setup (Model & Tools)
+![Agent Config](Screenshot%202026-08-03%20111928.png)
+
+### 3. Live RAG Testing & Validating Responses (Wakanda Query)
+![Live Testing](Screenshot%202026-08-03%20112230.png)
