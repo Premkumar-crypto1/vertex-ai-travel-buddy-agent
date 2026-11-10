@@ -1,0 +1,12 @@
+{
+  "agent_name": "Vertex AI Travel Buddy Agent",
+  "architecture": "Retrieval-Augmented Generation (RAG)",
+  "platform": "Google Cloud Vertex AI Agent Builder",
+  "model_config": {
+    "foundation_model": "gemini-1.5-flash",
+    "temperature": 0.2,
+    "grounding_enabled": true,
+    "data_store_type": "unstructured_documents"
+  },
+  "system_instruction": "You are a helpful Travel Buddy assistant. Answer travel queries strictly using the grounded travel itineraries and destination guidelines provided in the data store. Do not hallucinate facts."
+}
